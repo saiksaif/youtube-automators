@@ -70,8 +70,6 @@ typings/
 .yarn-integrity
 
 # dotenv environment variables file
-.env
-.env.test
 
 # parcel-bundler cache (https://parceljs.org/)
 .cache
@@ -100,7 +98,6 @@ typings/
 public
 
 # Vscode settings
-.vscode/settings.json
 
 # Vscode local history extension
 .history/
@@ -113,3 +110,4 @@ build-timestamp
 
 .now
 .vercel
+config.bat
